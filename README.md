@@ -1,2 +1,2 @@
 # Starbuks landing page
- HTML,CSS
+![image]("../Starbuks-landing-page/Assests/view.PNG");
