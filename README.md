@@ -1,2 +1,3 @@
 # Starbuks landing page
-![image]("../Starbuks-landing-page/Assests/view.PNG");
+
+![Screenshot](../Starbuks-landing-page/Assests/view.PNG)
